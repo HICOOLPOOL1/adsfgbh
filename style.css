@@ -1,0 +1,29 @@
+open-circle {
+    height: 1.5625rem;
+    width: 1.5625rem;
+    background-color: #00BF13;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.open-p {
+    color: #00BF13;
+    font-weight: bold;
+    display: inline-block;
+    width: 8rem;
+}
+
+.closed-circle {
+    height: 1.5625rem;
+    width: 1.5625rem;
+    background-color: #ea001d;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.closed-p {
+    color: #ea001d;
+    font-weight: bold;
+    display: inline-block;
+    width: 8rem;
+}
